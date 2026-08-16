@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-16T07:00:58.368Z
-modified: 2026-08-16T07:01:33.376Z
+modified: 2026-08-16T15:18:26.367Z
 ---
 
 The pirate port of Nassau is by far the largest town on the island of New Providence, and has in the past been the home berth of several notable pirates. It lies on the Northern shore of the island and boasts one of the largest harbours in the Bahamas, allowing up to 500 ships to dock simultaneously, while also being shallow enough to prevent larger battleships from reaching the shore.

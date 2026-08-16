@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-16T06:59:19.491Z
-modified: 2026-08-16T06:59:47.768Z
+modified: 2026-08-16T15:18:23.866Z
 ---
 
 Cannon fire, raucous singing, and screams of both pleasure and pain are no strangers to the pirate haven of New Providence. The Era of Piracy is in full swing and New Providence is alive with those seeking their fortunes and adventure (of one kind or another). Sooner or later most of these thirsty lasses find their way to Proud Mary's, Nassau's foremost den of drinking and degeneracy.

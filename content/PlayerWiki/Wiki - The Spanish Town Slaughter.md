@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-08-15T20:44:12.885Z
-modified: 2026-08-15T21:27:24.992Z
+modified: 2026-08-16T15:18:28.796Z
 ---
 
 Spanish Town had become the capital of Jamaica in 1692 after an earthquake left the previous capital Port Royal devastated. It quickly become the economical, political, and judicial core of the English presence in the Caribbean, while its predecessor Port Royal devolved further and further into anarchy and a haven for the desperate and cruel. It was considered a fortress and locals felt safe in the knowledge that neither pirates nor other European powers would dare stage an assault against the English seat of Caribbean power.
