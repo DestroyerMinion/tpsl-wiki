@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-05-25T19:20:27.873Z
-modified: 2026-08-16T16:48:16.718Z
+modified: 2026-08-18T20:07:40.866Z
 tags:
   - npc
   - new-providence
